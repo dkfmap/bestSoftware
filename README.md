@@ -1,5 +1,9 @@
 bestSoftware
 ---
+# Obsidian
+awesome personal knowledge management (PKM) aka "second brain" markdown note taking app that doesn't lock in your notes.
+
+https://obsidian.md/
 
 # LICEcap
 simple animated screen captures
